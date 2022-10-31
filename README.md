@@ -1,6 +1,6 @@
 # Flexbox Text Site
 
-### View the [live project here.](https://kirstendarling.github.io/flexbox-final-site/)
+### View the [live project here.](https://kirstendarling.github.io/Flexbox-Test-Site/)
 
 ### Screenshot
 
